@@ -1,6 +1,6 @@
 {
   "name": "postcss-px2rem-more",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "postcss plugin for px2rem-more",
   "main": "index.js",
   "directories": {
