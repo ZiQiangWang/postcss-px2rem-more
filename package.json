@@ -1,0 +1,30 @@
+{
+  "name": "postcss-px2rem-more",
+  "version": "0.0.1",
+  "description": "postcss plugin for px2rem-more",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiQiangWang/postcss-px2rem-more.git"
+  },
+  "keywords": [
+    "postcss",
+    "px2rem",
+    "font-size"
+  ],
+  "author": "wangziqiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZiQiangWang/postcss-px2rem-more/issues"
+  },
+  "homepage": "https://github.com/ZiQiangWang/postcss-px2rem-more#readme",
+  "dependencies": {
+    "px2rem-more": "0.0.4"
+  }
+}
