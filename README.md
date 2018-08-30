@@ -7,8 +7,8 @@ Not convert **font-size** by default，you can enable it by setting `keepFontSiz
 
 [![Downloads][downloads-image]][downloads-url]
 
-[downloads-image]: https://img.shields.io/npm/dm/postcss-px2rem-exclude.svg?style=flat-square
-[downloads-url]: https://www.npmjs.com/package/postcss-px2rem-exclude
+[downloads-image]: https://img.shields.io/npm/dm/postcss-px2rem-more.svg?style=flat-square
+[downloads-url]: https://www.npmjs.com/package/postcss-px2rem-v
 
 ## Useage
 

@@ -1,6 +1,6 @@
 {
   "name": "postcss-px2rem-more",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "postcss plugin for px2rem-more",
   "main": "index.js",
   "directories": {
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/ZiQiangWang/postcss-px2rem-more#readme",
   "dependencies": {
-    "px2rem-more": "0.0.4"
+    "px2rem-more": "0.0.5"
   }
 }
